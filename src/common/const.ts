@@ -222,6 +222,7 @@ export const DOMAINS_WITH_CARD = [
   "update",
   "vacuum",
   "water_heater",
+  "camera",
 ];
 
 export const SENSOR_ENTITIES = [
