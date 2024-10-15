@@ -29,6 +29,7 @@ import "./state-card-toggle";
 import "./state-card-update";
 import "./state-card-vacuum";
 import "./state-card-water_heater";
+import './state-card-camera.ts';
 
 @customElement("state-card-content")
 class StateCardContent extends LitElement {
